@@ -3,5 +3,4 @@
   "outputDirectory": "dist",
   "installCommand": "pnpm install",
   "framework": "vite",
-  "nodeVersion": "20.x"
 }
